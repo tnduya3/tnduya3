@@ -2,7 +2,6 @@
 Hi, I'm Nhật Duy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=tnduya3&label=Profile%20Views&color=0e75b6&style=flat" align=''right'' alt="tnduya3" />-->
- <img src="https://gpvc.arturio.dev/tnduya3" alt="Profile views" align=''right''/> <a href="https://github.com/tnduya3/tnduya3/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -17,12 +16,10 @@ Hi, I'm Nhật Duy!
 tnduya3@github
 -------------------------
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+📚 I have a Bachelors in Cyber Security from University of Information Technology, HCM-VNU
+📝 I have a strong interest in SOC, Reversing and Malware Analysis
+🔭 Working on LLM, Deep Learning and Machine Learning
+🌟 Main languages: Python, ASM, C++
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music

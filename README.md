@@ -8,25 +8,7 @@ Hi, I'm Nhật Duy!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security;Malware+Analysis;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
-<img align="left" src="https://github.com/tnduya3/tnduya3/blob/main/fg.jpg" alt="Profile image" width="320" />
-<hr>
-
-```
-tnduya3@github
--------------------------
--------------------------
-📚 I have a Bachelors in Cyber Security from University of Information Technology, HCM-VNU
-📝 I have a strong interest in SOC, Reversing and Malware Analysis
-🔭 Working on LLM, Deep Learning and Machine Learning
-🌟 Main languages: Python, ASM, C++
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
-```
-<hr>
-
-<div align="center">
+![Glass Profile](https://www.gitskins.com/api/premium-card?username=tnduya3&theme=zen&variant=glass&avatar=persona)
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/tnduya3?label=Follow&style=social)](https://github.com/tnduya3)

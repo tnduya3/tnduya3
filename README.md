@@ -13,7 +13,7 @@ Hi, I'm Nhật Duy!
 
 [![GitHub Followers](https://img.shields.io/github/followers/tnduya3?label=Follow&style=social)](https://github.com/tnduya3)
 [![GitHub Stars](https://img.shields.io/github/stars/tnduya3?style=social)](https://github.com/tnduya3)
-</div>
+
 
 
 🌱 Currently immersed in the world of **Programming**, fascinated by **Security**, and always on the lookout for inspiring projects.

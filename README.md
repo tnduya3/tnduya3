@@ -8,11 +8,8 @@ Hi, I'm Nhật Duy!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security;Malware+Analysis;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-[![tnduya3's GitSkins profile skin](https://gitskins.com/api/premium-card?username=tnduya3&theme=satan&variant=persona)](https://gitskins.com/showcase/tnduya3?skin=inferno)
-[![GitHub Followers](https://img.shields.io/github/followers/tnduya3?label=Follow&style=social)](https://github.com/tnduya3)
-[![GitHub Stars](https://img.shields.io/github/stars/tnduya3?style=social)](https://github.com/tnduya3)
 
-
+[![tnduya3's GitSkins profile skin](https://gitskins.com/api/premium-card?username=tnduya3&theme=winter&variant=persona)](https://gitskins.com/showcase/tnduya3?skin=frosted)
 
 🌱 Currently immersed in the world of **Programming**, fascinated by **Security**, and always on the lookout for inspiring projects.
 
